@@ -20,6 +20,9 @@ Execute the C Program for the desired output.
 
 # PROGRAM:
 
+# NAME  : THAANESH V
+# REG.NO:212223230228
+
 ## C program that receives a message from message queue and display them :
 # writer.c :
 ```
